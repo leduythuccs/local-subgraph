@@ -1,0 +1,3 @@
+[submodule "example-subgraph"]
+	path = example-subgraph
+	url = https://github.com/leduythuccs/example-subgraph
